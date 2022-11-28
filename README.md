@@ -8,6 +8,7 @@ Problématique : Est-il possible et viable d'analyser et d'interpréter des info
 
 Pour répondre à notre problématique, nous nous sommes concentrés sur une analyse du Bitcoin par l'intermédiaire de deux sources d'information :
 
-son prix du 17-08-2017 jusqu'à aujourd'hui 02-02-2021
-la publication d'informations relatives au Bitcoin (Tweeter)
+- son prix du 17-08-2017 jusqu'à aujourd'hui 02-02-2021
+- la publication d'informations relatives au Bitcoin (Tweeter)
+
 Les prix ont été récoltés avec l'API Binance, les informations relatives au Bitcoin ont été obtenues depuis les Tweets de personnes et entreprises considérées comme influentes dans le milieu de la cryptomonnaie avec l'API Twitter. Les personnes en question sont par exemple le créateur de l'Ethereum, des "crypto-trader" suivis par centaines de milliers ou encore les créateurs des "exchanges" et "brokers".
